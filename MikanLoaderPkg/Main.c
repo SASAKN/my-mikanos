@@ -137,7 +137,7 @@ const CHAR16* GetPixelFormatUnicode(EFI_GRAPHICS_PIXEL_FORMAT fmt) {
   switch(fmt){
     case PixelRedGreenBlueReserved8BitPerColor:
       return L"PixelRedGreenBlueReserved8BitPerColor";
-    case PixelRedGreenBlueReserved8BitPerColor:
+    case PixelBlueGreenRedReserved8BitPerColor:
       return L"PixelBlueGreenRedReserved8BitPerColor";
     case PixelBitMask:
       return L"PixelBitMask";
