@@ -18,7 +18,7 @@
     UefiLib
     UefiApplicationEntryPoint
 
-[Grids]
+[Guids]
     gEfiFileInfoGuid
 
 [Protocols]
