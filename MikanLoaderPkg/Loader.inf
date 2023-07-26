@@ -10,7 +10,7 @@
 [Sources]
     main.c
 
-[Library Classes]
+[LibraryClasses]
     UefiLib
     UefiApplicationEntryPoint
 
