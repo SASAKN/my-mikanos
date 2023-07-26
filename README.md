@@ -1,2 +1,3 @@
-# homepage-rta-os
- 阿部寛さんのホームページを見るためのOS(非公式)
+# MikanOS
+
+MikanOSの写経やがて、Noteの記事で言ったOSになります。
