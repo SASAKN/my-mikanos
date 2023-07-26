@@ -9,7 +9,7 @@
     #VAILD_ARCHITECTURES    = X64
 
 [Sources]
-    main.c
+    Main.c
 
 [Packages]
     MdePkg/MdePkg.dec
